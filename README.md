@@ -3,15 +3,15 @@
 ## Name: KUMARTEJA N
 ## Reg No: 212223230132
 ### Procedure:
-# 1.Set Up the Environment:
+## 1.Set Up the Environment:
  Install the necessary libraries.
-# 2.Load the YOLO v4 Model:
+## 2.Load the YOLO v4 Model:
  Load the YOLO v4 configuration and weights into OpenCV's DNN module.
-# 3.Process Video Frames:
+## 3.Process Video Frames:
  Capture video frames from the laptop camera.
-# 4.Object Detection Process:
+## 4.Object Detection Process:
  Pre-process the frame for YOLO input (resize, normalize, etc.).
-# 5.Display the Results:
+## 5.Display the Results:
  Show the annotated video frame in a window.
 
 ### Program:
