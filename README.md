@@ -3,16 +3,16 @@
 ## Name: KUMARTEJA N
 ## Reg No: 212223230132
 ### Procedure:
-## 1.Set Up the Environment:
-## Install the necessary libraries.
-## 2.Load the YOLO v4 Model:
-## Load the YOLO v4 configuration and weights into OpenCV's DNN module.
-## 3.Process Video Frames:
-## Capture video frames from the laptop camera.
-## 4.Object Detection Process:
-## Pre-process the frame for YOLO input (resize, normalize, etc.).
-## 5.Display the Results:
-## Show the annotated video frame in a window.
+# 1.Set Up the Environment:
+ Install the necessary libraries.
+# 2.Load the YOLO v4 Model:
+ Load the YOLO v4 configuration and weights into OpenCV's DNN module.
+# 3.Process Video Frames:
+ Capture video frames from the laptop camera.
+# 4.Object Detection Process:
+ Pre-process the frame for YOLO input (resize, normalize, etc.).
+# 5.Display the Results:
+ Show the annotated video frame in a window.
 
 ### Program:
 ```
@@ -94,7 +94,7 @@ cap.release()
 cv2.destroyAllWindows()
 
 ```
-## Output:
+### Output:
 ![image](https://github.com/user-attachments/assets/27126719-fc48-41c8-aac8-52141ee9f2eb)
 ## Result:
 The real-time object detection system using Python and YOLOv4 successfully detected and classified objects from live video feed with accurate bounding boxes and labels in real time.
